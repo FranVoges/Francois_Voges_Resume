@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+
+li { text-align:center;
+ 	list-style-position:inside;
+}
+
+t{
+	color: black;
+	font-family: Arial, Helvetica;
+	background-color: aliceblue;
+	text-align:center;
+	font-weight: bold;
+}
+
+p {
+	color: black;
+	font-family: Arial, Helvetica;
+	background-color: aliceblue;
+	text-align:center;
+	}
+	
+body {
+	width: 80%;
+	margin: auto;
+	color: black;
+	text-align:center;
+	font-family: Arial, Helvetica;
+	background-color: aliceblue;
+	}
+	
+a:hover{
+	color: green;
+}
+
+	
